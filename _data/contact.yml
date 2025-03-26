@@ -1,20 +1,24 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
-
-# - type: twitter
-#   icon: "fa-brands fa-x-twitter"
-
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
-
 - type: qq
   icon: "fa-brands fa-qq"
   url: 'https://qm.qq.com/q/NmomHCVYo8'
   noblank: false
 
+  - type: douyin
+  icon: "fa-brands fa-tiktok"
+  url: 'https://v.douyin.com/HshGjllePBo/ 5@0.com :4pm'
+  noblank: false
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
+
+- type: github
+  icon: "fab fa-github"
+
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
 # - type: rss
 #   icon: "fas fa-rss"
 #   noblank: true
